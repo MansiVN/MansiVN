@@ -1,9 +1,10 @@
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mansi
-=============================================================================================================================
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b7611dxlk849hnkz9yxcxtg3rsg3u6itpkwuirma1o0cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
+
+Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mansi
+=============================================================================================================================
+
 
 Senior Analyst | Data Enthusiast
 --------------------------------
