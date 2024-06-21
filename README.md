@@ -11,6 +11,7 @@ Senior Analyst | Data Enthusiast
 I am leveraging my expertise as a Senior Analyst at Ernst & Young, I have gained invaluable experience in analysing complex data sets and providing strategic insights to drive business growth. I am motivated, adaptable, and ready to take on any opportunity that aligns with my values and passion for growth. Let's connect and explore how we can collaborate towards a brighter future.
 
 * 🌍  I'm based in Mumbai
+* 🖥️  See my portfolio at [https://mansivn.github.io/](http://mansivn.github.io)
 * ✉️  You can contact me at [nayakmansi30@gmail.com](mailto:nayakmansi30@gmail.com)
 * 🧠  I'm learning Azure cloud concepts
 
