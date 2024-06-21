@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=790b7611dxlk849hnkz9yxcxtg3rsg3u6itpkwuirma1o0cl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100"/>
 </div>
+
 Senior Analyst | Data Enthusiast
 --------------------------------
-
 I am leveraging my expertise as a Senior Analyst at Ernst & Young, I have gained invaluable experience in analysing complex data sets and providing strategic insights to drive business growth. I am motivated, adaptable, and ready to take on any opportunity that aligns with my values and passion for growth. Let's connect and explore how we can collaborate towards a brighter future.
 
 * 🌍  I'm based in Mumbai
