@@ -4,11 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Analyst | Data Enthusiast
 --------------------------------
 
+<iframe src="https://giphy.com/embed/JWuBH9rCO2uZuHBFpm" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm">via GIPHY</a></p>
 
-
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/Giflytics-JWuBH9rCO2uZuHBFpm" width="100"/>
-</div>
 
 I am leveraging my expertise as a Senior Analyst at Ernst & Young, I have gained invaluable experience in analysing complex data sets and providing strategic insights to drive business growth. I am motivated, adaptable, and ready to take on any opportunity that aligns with my values and passion for growth. Let's connect and explore how we can collaborate towards a brighter future.
 
