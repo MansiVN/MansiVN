@@ -26,6 +26,8 @@ I am leveraging my expertise as a Senior Analyst at Ernst & Young, I have gained
 
 <a href="https://github.com/MansiVN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansiVN&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>## Hi there 👋
 
+![Visitor Count](https://profile-counter.glitch.me/{MansiVN}/count.svg)
+
 <!--
 **MansiVN/MansiVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
