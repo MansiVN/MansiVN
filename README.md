@@ -13,7 +13,7 @@ I am leveraging my expertise as a Senior Analyst at Ernst & Young, I have gained
 * 🌍  I'm based in Mumbai
 * 🖥️  See my portfolio at [https://mansivn.github.io/](http://mansivn.github.io)
 * ✉️  You can contact me at [nayakmansi30@gmail.com](mailto:nayakmansi30@gmail.com)
-* 🧠  I'm learning Azure cloud concepts
+* 🧠  I'm learning Data engineering concepts
 
 ### Skills
 
